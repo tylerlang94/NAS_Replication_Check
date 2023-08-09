@@ -23,7 +23,7 @@ $AlertCoolOffMinutes=1200
 $CheckTime=Get-Date
 
 $output_str=$null
-$CC_output="C:\servicescripts\castNcheck.txt"
+$CC_output="path\to\outputlog"
 $nas_cast_file="\\path\to\nas\file"
 $nas_check_file="\\path\to\nas\file"
 $CompanyName = "CompanyName"
